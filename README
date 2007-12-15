@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2099
+
+*xml_autons* is an additional Vim filetype plugin for XML to execute |:XMLns|
+according to the content of the current buffer.  This supports to use omni
+completion for XML (|ft-xml-omni|), because it requires to execute |:XMLns|.
+
+
+Requirements:
+- Vim 7.0 or later
+
+Latest version:
+http://github.com/kana/vim-xml-autons
+
+Document in HTML format:
+http://kana.github.com/config/vim/xml_autons.html
